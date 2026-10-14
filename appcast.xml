@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Loophole</title>
+        <item>
+            <title>1.0.3</title>
+            <pubDate>Tue, 27 Oct 2026 22:22:35 +0000</pubDate>
+            <link>https://github.com/IrtizaNasar/Loophole</link>
+            <sparkle:version>1.0.3</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/IrtizaNasar/Loophole/releases/download/v1.0.3/Loophole.dmg" length="4322191" type="application/octet-stream" sparkle:edSignature="uOnrkEQVcBEbK9hWZYhzPxEVUwNYMuJogAd/hJs54iMyhyP8fJ3nbvFPAQvHvIt4RTZM/lh+QJJslUxuvHVHDw=="/>
+        </item>
+        <item>
+            <title>1.0.2</title>
+            <pubDate>Wed, 21 Oct 2026 07:21:44 +0100</pubDate>
+            <link>https://github.com/IrtizaNasar/Loophole</link>
+            <sparkle:version>1.0.2</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/IrtizaNasar/Loophole/releases/download/v1.0.2/Loophole.dmg" length="4318502" type="application/octet-stream" sparkle:edSignature="rw6SRqiouQU6v01A4/MU0oTRjivhw+JgF6zsCmPZsVwbgp5TZD175wBAiqP4mmNMmwTMAoYnTbf8xNcmm4RUDw=="/>
+        </item>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Thu, 15 Oct 2026 23:36:42 +0100</pubDate>
+            <link>https://github.com/IrtizaNasar/Loophole</link>
+            <sparkle:version>1.0.1</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/IrtizaNasar/Loophole/releases/download/v1.0.1/Loophole.dmg" length="4128481" type="application/octet-stream" sparkle:edSignature="fde59vHPeLjlu/E3VhNDbESVBrUUShC8XYnJLboA3sMXJhJ5lAsz7lMfao3ptjB4f36n2MyUyWAtkyWhC1MoDg=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Wed, 14 Oct 2026 03:33:45 +0100</pubDate>
+            <link>https://github.com/IrtizaNasar/Loophole</link>
+            <sparkle:version>1.0.0</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/IrtizaNasar/Loophole/releases/download/v1.0.0/Loophole.dmg" length="3816917" type="application/octet-stream" sparkle:edSignature="U1SGUYEj1q65fG/Ru+nnpJlM9eZEA63vJt6lJEWsumG+oL1e81xEf7RGEPq0vUi6Blhfgor1zjI5XobSH0nJDg=="/>
+        </item>
+    </channel>
+</rss>
