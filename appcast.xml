@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Loophole</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Wed, 14 Oct 2026 03:33:45 +0100</pubDate>
+            <link>https://github.com/IrtizaNasar/Loophole</link>
+            <sparkle:version>1.0.0</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/IrtizaNasar/Loophole/releases/download/v1.0.0/Loophole.dmg" length="3816917" type="application/octet-stream" sparkle:edSignature="U1SGUYEj1q65fG/Ru+nnpJlM9eZEA63vJt6lJEWsumG+oL1e81xEf7RGEPq0vUi6Blhfgor1zjI5XobSH0nJDg=="/>
+        </item>
+    </channel>
+</rss>
